@@ -1,7 +1,7 @@
 /**
-   * Create By RaffX Studio 
+   * Create By ANGGABOTZ
    * Contact Me on ----
-   * Follow https://github.com/raflimaulan
+   * Follow https://github.com/ANGGABOTZ
 */
 
 //gausah di apa² in!
